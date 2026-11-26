@@ -1,0 +1,15 @@
+{
+  "name": "placement-portal-mern",
+  "version": "1.0.0",
+  "description": "College Placement Portal MERN Stack Project - Team 4 (S.No. 23 to 29)",
+  "scripts": {
+    "dev:backend": "cd backend && node server.js",
+    "dev:frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && node seeder.js",
+    "test:backend": "cd backend && node test-api.js",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": ["placement-portal", "mern", "react", "express", "nodejs", "mongodb"],
+  "author": "Team 4 (Students S.No. 23 to 29)",
+  "license": "MIT"
+}
