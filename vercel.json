@@ -4,8 +4,7 @@
     "backend": {
       "root": "backend",
       "buildCommand": "npm install",
-      "entrypoint": "api/index.js",
-      "runtime": "nodejs20.x"
+      "entrypoint": "api/index.js"
     },
     "frontend": {
       "root": "frontend",
